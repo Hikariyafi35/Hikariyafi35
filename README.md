@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/](https://www.linkedin.com/in/hikariaufa/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height= "40" />
   </a>
 </p>
 
