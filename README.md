@@ -2,7 +2,7 @@
 <h1 align="center">Halo, I'm Hikari 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/hikariaufa/"> 
+  <a href="https://www.linkedin.com/in/hikariaufa/"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height= "100" />
   </a>
 </p>
