@@ -28,7 +28,4 @@ Focusing on Unity, Game AI, and C# Development
 ---
 
 ## 🔥 My Stats
-
-<p align="left">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hikariyafi35&theme=dark)](https://git.io/streak-stats)
-</p>
