@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Halo, I'm Hika 👋</h1>
+<h1 align="center">Halo, I'm Hikari 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hikariaufa/"> 
