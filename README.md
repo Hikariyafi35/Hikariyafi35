@@ -14,7 +14,7 @@ I'm Hikari Aufa Yafi, a Game Programmer and Gameplay Designer
 Focusing on Unity, Game AI, and C# Development.
 I also create simple low-poly game assets.
 All of my prototypes and games I've made:
-👉 (hikariyafi35.github.io/Hikari-Portofolio/)
+👉 ( hikariyafi35.github.io/Hikari-Portofolio/ )
 
 ---
 
